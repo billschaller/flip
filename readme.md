@@ -1,4 +1,5 @@
 # tableflip #
+[![Build Status](https://travis-ci.org/zeroedin-bill/flip.svg?branch=master)](https://travis-ci.org/zeroedin-bill/flip)
 
 This library is pretty dumb. Feel free to submit PRs, but how can you really improve something like this anyway?
 
