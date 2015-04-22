@@ -4,11 +4,7 @@ This library is pretty dumb. Feel free to submit PRs, but how can you really imp
 
 ## usage ##
 
-1. 
-```php
-（╯°□°）╯︵┻━┻();
-```
-
+1. ```（╯°□°）╯︵┻━┻();```
 2. go take a break, you clearly need it.
 
 ## license ##
