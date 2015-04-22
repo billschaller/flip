@@ -1,6 +1,7 @@
 {
   "name": "table/flip",
   "description": "（╯°□°）╯︵┻━┻",
+  "version": "1.0.0",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
