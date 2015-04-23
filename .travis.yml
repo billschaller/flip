@@ -9,10 +9,8 @@ php:
   - hhvm
   - hhvm-nightly
 
-before_install:
-  - composer self-update
+sudo: false
 
-install:
-  - composer update --prefer-source
+install: travis_retry composer install --no-interaction --prefer-source
 
-script: ./vendor/bin/phpunit tests
+script: vendor/bin/phpunit tests
