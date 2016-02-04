@@ -14,9 +14,9 @@ class ┻━┻ extends Exception
     {
         return "┬─┬";
     }
-    +    
-+    public static function ノ（°□°ノ）()
-+    {
-+        throw new static();
-+    }
+
+    public static function ノ（°□°ノ）()
+    {
+        throw new static();
+    }
 }
